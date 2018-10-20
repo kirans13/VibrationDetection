@@ -1,0 +1,1 @@
+This code file is taken from Jeff Rowberg's <jeff@rowberg.net> github repository https://github.com/jrowberg/i2cdevlib. Changes are made to suit my requirements. 
